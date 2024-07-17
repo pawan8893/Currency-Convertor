@@ -2,14 +2,13 @@
 - An instant currency converter app built with React for real-time exchange rates.
 
 # Table of Contents
-- Demo
 - Features
 - Installation
 - Usage
 - Contributing
 - License
-- Demo
 - Check out the live demo of the Currency Converter App here.
+- https://currency-convertor-kohl.vercel.app/
 
 # Features
 - Real-time currency exchange rates
@@ -23,7 +22,8 @@
 
 - Clone the repository:
 
-
+bash
+copy code
 git clone https://github.com/your-username/currency-converter-app.git
 cd Currency-Convertor
 
