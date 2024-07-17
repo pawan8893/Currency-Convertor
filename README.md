@@ -22,17 +22,21 @@
 
 - Clone the repository:
 
-bash
-copy code
+```bash
 git clone https://github.com/your-username/currency-converter-app.git
 cd Currency-Convertor
+```
 
 # Install dependencies:
 
+```bash
 npm install
+```
 
 - To start the app, run:
+```bash
 npm start
+```
 
 - The app will be available at http://localhost:3000.
 
